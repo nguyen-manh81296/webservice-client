@@ -1,0 +1,20 @@
+.logo-img {
+    width: 80px;
+}
+
+.header-menu .nav-item .nav-link {
+    color: #000;
+    font-weight: 600;
+}
+
+.header-menu .nav-item .nav-link:hover {
+    color: #03a9f4;
+}
+
+.header-menu .nav-item .active {
+    color: #03a9f4;
+}
+
+.auth-button .nav-item .nav-link {
+    color: #000;
+}
